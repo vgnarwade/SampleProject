@@ -1,0 +1,9 @@
+.idea
+.pyc
+.class
+/bin
+/out
+/target
+.log
+.lock
+.tmp
