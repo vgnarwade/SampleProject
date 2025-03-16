@@ -18,6 +18,14 @@ def multiply_numbers(a,b):
     return res
 
 
+def division_numbers(a,b):
+    if b==0:
+        print("Can't divide by Zero, provide valid number")
+    else:
+        res = a/b
+        return res
+
+
 if __name__ == "__main__":
     add_numbers(2,3)
     subtract_numbers(40, 20)
